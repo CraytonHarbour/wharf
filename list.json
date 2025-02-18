@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Lion",
+        "species": "Panthera leo",
+        "habitat": "Savanna",
+        "diet": "Carnivore"
+    },
+    {
+        "name": "Elephant",
+        "species": "Loxodonta africana",
+        "habitat": "Grasslands",
+        "diet": "Herbivore"
+    },
+    {
+        "name": "Penguin",
+        "species": "Aptenodytes forsteri",
+        "habitat": "Antarctic",
+        "diet": "Carnivore"
+    },
+    {
+        "name": "Kangaroo",
+        "species": "Macropus giganteus",
+        "habitat": "Australian Outback",
+        "diet": "Herbivore"
+    }
+]
